@@ -3,6 +3,7 @@ import time
 from datetime import datetime
 hosts_path = r"C:\Windows\System32\drivers\etc\hosts"
 redirect = "127.0.0.1"
+# You can change the elements in list below as much as you need, just add website adress that you want to block
 stronki = ["www.zara.com", "https://www.zalando.pl/mezczyzni-home/", "https://www.zalando.pl/kobiety-home/"]
 
 while True:
